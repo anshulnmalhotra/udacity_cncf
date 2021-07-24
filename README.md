@@ -1,1 +1,1 @@
-# nd064_C1
+# Repo to practice udacity CNCF foundation course
